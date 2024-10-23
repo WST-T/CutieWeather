@@ -1,0 +1,25 @@
+{
+  "name": "cutie-weather",
+  "version": "1.0.0",
+  "description": "A simple weather application",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack --mode production",
+    "dev": "webpack serve --open"
+  },
+  "author": "wsTnT",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^5.1.0"
+  }
+}

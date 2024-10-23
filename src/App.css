@@ -1,0 +1,22 @@
+.container {
+    max-width: 600px;
+    height: 88vh;
+    margin: auto;
+    margin-top: 5vh;
+    align-self: center;
+    border-radius: 20px;
+    background-color: #116A7B;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.card {
+    height: 88vh;
+    margin: auto;
+    margin-top: 5vh;
+    align-self: center;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}

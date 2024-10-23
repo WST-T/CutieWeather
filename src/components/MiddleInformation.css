@@ -1,0 +1,21 @@
+.weather-icon {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.weather-degree {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    color: #F3EEEA;
+    font-size: 45px;
+}
+
+.weather-city {
+    display: flex;
+    justify-content: center;
+    color: #F3EEEA;
+    font-size: 50px;
+    margin-bottom: 16px;
+}
